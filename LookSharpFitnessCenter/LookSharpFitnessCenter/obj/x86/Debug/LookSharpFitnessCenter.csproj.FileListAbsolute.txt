@@ -1,0 +1,14 @@
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\bin\Debug\LookSharpFitnessCenter.exe
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\bin\Debug\LookSharpFitnessCenter.pdb
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.promotionForm.resources
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.Properties.Resources.resources
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.exe
+F:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.pdb
+H:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.exe
+H:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.csprojResolveAssemblyReference.cache
+H:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.promotionForm.resources
+H:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.Properties.Resources.resources
+H:\Projects\LookSharpFitnessCenter\LookSharpFitnessCenter\obj\x86\Debug\LookSharpFitnessCenter.csproj.GenerateResource.Cache
