@@ -1,0 +1,12 @@
+H:\Projects\JuiceBar\JuiceBar\bin\Debug\JuiceBar.exe.config
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.csprojResolveAssemblyReference.cache
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.JuiceBarForm.resources
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.Properties.Resources.resources
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.csproj.GenerateResource.Cache
+H:\Projects\JuiceBar\JuiceBar\bin\Debug\JuiceBar.exe
+H:\Projects\JuiceBar\JuiceBar\bin\Debug\JuiceBar.pdb
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.exe
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.pdb
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.AboutBox1.resources
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.SplashScreen.resources
+H:\Projects\JuiceBar\JuiceBar\obj\Debug\JuiceBar.SummaryForm.resources
